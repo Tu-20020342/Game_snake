@@ -1,6 +1,9 @@
 # TranVanTu
 Game snake
-menugame
+menugame:
+
+
+
 Sử dụng phím mũi tên lên xuống để chọn các tùy chọn
 Nhấn phím enter để bắt đầu.
 
