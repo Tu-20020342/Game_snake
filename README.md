@@ -1,8 +1,6 @@
 # TranVanTu
 Game snake
+menugame
 
 
-
-
-
-![bFont](https://user-images.githubusercontent.com/83269709/116988406-851cf100-acfa-11eb-8323-64d3ec62f5d6.png)
+<img width="435" alt="menu" src="https://user-images.githubusercontent.com/83269709/116989109-83076200-acfb-11eb-93ff-b0e6903307e2.png">
